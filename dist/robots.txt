@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-rb-construction-general-contractor.dream-surge.com/sitemap-index.xml

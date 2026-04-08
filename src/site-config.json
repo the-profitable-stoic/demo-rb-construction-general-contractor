@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "RB Construction General Contractor",
+    "phone": "+14157164054",
+    "category": "siding contractor",
+    "city": "San Francisco",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Francisco's Siding Experts",
+      "heroSubline": "Protecting Bay Area homes with durable, beautiful siding solutions. RB Construction: Quality you can trust.",
+      "aboutTitle": "Built on Craftsmanship, Rooted in San Francisco",
+      "aboutText": [
+        "RB Construction General Contractor started with a simple goal: to provide San Francisco homeowners with reliable siding services built on integrity and quality. Founded by seasoned professionals with deep roots in the Bay Area construction scene, we understood the challenges our unique climate and housing stock presented. We're not just contractors; we're your neighbors.",
+        "Our approach is straightforward: meticulous planning, skilled execution, and open communication. We believe in doing the job right the first time, using only premium materials and proven techniques. We value transparency and strive to keep you informed every step of the way, ensuring your complete satisfaction.",
+        "As active members of the San Francisco community, we're committed to giving back. We regularly participate in local initiatives and support organizations that strengthen our neighborhoods. We believe in building not just better homes, but a better future for San Francisco."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of San Francisco architecture and climate conditions."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "We use only the highest quality siding products for lasting protection and beauty."
+        },
+        {
+          "title": "Skilled Installation",
+          "description": "Our experienced team ensures precise and durable siding installation."
+        },
+        {
+          "title": "Transparent Communication",
+          "description": "We keep you informed throughout the entire project, from start to finish."
+        }
+      ],
+      "ctaHeadline": "Transform Your Home Today!",
+      "ctaSubline": "Get a free, no-obligation siding consultation. Call RB Construction now."
+    },
+    "services": [
+      {
+        "slug": "siding-installation",
+        "name": "Siding Installation",
+        "shortDescription": "Expert siding installation for lasting protection and enhanced curb appeal.",
+        "description": "Proper siding installation is crucial for protecting your San Francisco home from the elements and enhancing its aesthetic appeal. RB Construction offers comprehensive siding installation services, tailored to your specific needs and preferences. We work with a wide range of siding materials, including fiber cement, wood, vinyl, and metal, ensuring you find the perfect fit for your home's style and budget.\n\nOur experienced team meticulously prepares the substrate, ensuring a smooth and even surface for optimal siding adhesion. We pay close attention to detail, properly flashing windows and doors, and sealing all seams to prevent water intrusion. We adhere to the highest industry standards, guaranteeing a durable and long-lasting siding installation that will protect your home for years to come. Whether it's a Victorian in the Mission or a modern home in SOMA, we are equipped to deliver the best.",
+        "process": [
+          "Step 1: Consultation and Material Selection",
+          "Step 2: Precise Measurements and Planning",
+          "Step 3: Old Siding Removal and Substrate Preparation",
+          "Step 4: Professional Siding Installation and Finishing"
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Property Value",
+          "Improved Energy Efficiency",
+          "Long-Lasting Protection"
+        ],
+        "faq": [
+          {
+            "question": "What type of siding is best for San Francisco's climate?",
+            "answer": "Fiber cement siding is highly recommended for San Francisco due to its durability, resistance to moisture, and ability to withstand temperature fluctuations. Vinyl siding is a cost effective option too. We can assess your home and provide a recommendation."
+          },
+          {
+            "question": "How long does siding installation typically take?",
+            "answer": "The duration of siding installation depends on the size and complexity of the project. A typical project can take anywhere from 1-3 weeks. We'll give you a project timeline during the initial consultation."
+          },
+          {
+            "question": "Do you offer warranties on your siding installations?",
+            "answer": "Yes, we offer comprehensive warranties on both the siding materials and our workmanship, providing you with peace of mind and long-term protection for your investment."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair",
+        "name": "Siding Repair",
+        "shortDescription": "Fast and reliable siding repair services to protect your home from the elements.",
+        "description": "Damaged siding can compromise your home's protection and aesthetic appeal. RB Construction offers prompt and reliable siding repair services to address a wide range of issues, from minor cracks and dents to more extensive damage caused by weathering, pests, or impact. We understand the unique challenges San Francisco homes face, from the salty air near the coast to the seismic activity that can cause structural shifts.\n\nOur skilled technicians will carefully assess the damage and recommend the most effective repair solution. We use high-quality materials that match your existing siding to ensure a seamless repair. We're experienced in repairing all types of siding, including wood, vinyl, fiber cement, and metal. Don't let damaged siding compromise your home's protection. Contact RB Construction for fast and reliable repair services to restore your home's beauty and integrity.",
+        "process": [
+          "Step 1: Thorough Damage Assessment",
+          "Step 2: Material Matching and Preparation",
+          "Step 3: Precise Repair and Sealing",
+          "Step 4: Quality Inspection and Finishing"
+        ],
+        "benefits": [
+          "Prevents Further Damage",
+          "Maintains Curb Appeal",
+          "Extends Siding Lifespan",
+          "Cost-Effective Solution"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my siding needs repair?",
+            "answer": "Common signs of siding damage include cracks, dents, warping, discoloration, and loose or missing pieces. If you notice any of these issues, contact us for an inspection."
+          },
+          {
+            "question": "Can you match the color of my existing siding?",
+            "answer": "Yes, we have extensive resources to match the color and texture of your existing siding, ensuring a seamless repair that blends perfectly with your home's exterior."
+          },
+          {
+            "question": "What types of siding do you repair?",
+            "answer": "We repair all types of siding, including wood, vinyl, fiber cement, and metal siding. Our technicians are experienced in handling a wide range of repair challenges."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement",
+        "name": "Siding Replacement",
+        "shortDescription": "Upgrade your home with premium siding replacement services.",
+        "description": "When siding is beyond repair or you're looking to upgrade your home's appearance and protection, RB Construction offers comprehensive siding replacement services. We'll guide you through the selection process, helping you choose the perfect siding material and style to match your vision and budget. San Francisco homes can benefit greatly from modern siding materials that offer improved insulation and weather resistance.\n\nOur experienced team will carefully remove your old siding, prepare the substrate, and install your new siding with precision and attention to detail. We're committed to providing a seamless and stress-free siding replacement experience. Increase your home's value and curb appeal with new siding from RB Construction.",
+        "process": [
+          "Step 1: Consultation and Material Selection",
+          "Step 2: Old Siding Removal and Disposal",
+          "Step 3: Substrate Preparation and Insulation",
+          "Step 4: Professional Siding Installation and Finishing"
+        ],
+        "benefits": [
+          "Enhanced Home Value",
+          "Improved Energy Efficiency",
+          "Modernized Appearance",
+          "Increased Protection"
+        ],
+        "faq": [
+          {
+            "question": "How often should I replace my siding?",
+            "answer": "The lifespan of siding depends on the material and environmental factors. Generally, vinyl siding lasts 20-40 years, wood siding lasts 20-30 years, and fiber cement siding lasts 50+ years."
+          },
+          {
+            "question": "What are the benefits of replacing my siding?",
+            "answer": "Replacing your siding can improve your home's energy efficiency, increase its value, enhance its curb appeal, and protect it from the elements."
+          },
+          {
+            "question": "Do you handle the disposal of the old siding?",
+            "answer": "Yes, we handle the removal and disposal of your old siding in an environmentally responsible manner."
+          }
+        ]
+      },
+      {
+        "slug": "fiber-cement-siding",
+        "name": "Fiber Cement Siding",
+        "shortDescription": "Durable and beautiful fiber cement siding installation and repair.",
+        "description": "Fiber cement siding is a popular choice for San Francisco homeowners due to its exceptional durability, resistance to moisture, and aesthetic versatility. RB Construction specializes in fiber cement siding installation and repair, providing expert services to enhance your home's protection and curb appeal. Fiber cement stands up to the Bay Area's diverse weather conditions, from foggy mornings to sunny afternoons.\n\nWe work with leading manufacturers to offer a wide range of fiber cement siding styles and colors, allowing you to customize your home's exterior. Our skilled technicians ensure precise installation, paying close attention to detail to create a seamless and long-lasting finish. Invest in the durability and beauty of fiber cement siding with RB Construction.",
+        "process": [
+          "Step 1: Consultation and Design Selection",
+          "Step 2: Precise Measurements and Cutting",
+          "Step 3: Professional Installation and Sealing",
+          "Step 4: Quality Inspection and Finishing"
+        ],
+        "benefits": [
+          "Exceptional Durability",
+          "Moisture Resistance",
+          "Fire Resistance",
+          "Versatile Styles"
+        ],
+        "faq": [
+          {
+            "question": "What are the advantages of fiber cement siding?",
+            "answer": "Fiber cement siding is highly durable, resistant to moisture, fire-resistant, and offers a wide range of styles and colors. It's a great option for San Francisco's climate."
+          },
+          {
+            "question": "Is fiber cement siding more expensive than vinyl siding?",
+            "answer": "Yes, fiber cement siding is generally more expensive than vinyl siding, but it offers superior durability and longevity, making it a worthwhile investment."
+          },
+          {
+            "question": "How long does fiber cement siding last?",
+            "answer": "Fiber cement siding can last 50+ years with proper installation and maintenance."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-siding",
+        "name": "Vinyl Siding",
+        "shortDescription": "Affordable and low-maintenance vinyl siding solutions.",
+        "description": "Vinyl siding is a cost-effective and low-maintenance option for San Francisco homeowners looking to enhance their home's appearance and protection. RB Construction offers professional vinyl siding installation and repair services, providing a wide range of styles and colors to choose from. Vinyl siding is particularly popular in neighborhoods with older homes that are looking to modernize their exteriors.\n\nOur experienced team ensures proper installation, paying close attention to detail to create a seamless and weather-resistant finish. Vinyl siding is a practical and attractive choice for homeowners seeking a budget-friendly siding solution. Enjoy the benefits of low-maintenance and long-lasting vinyl siding with RB Construction.",
+        "process": [
+          "Step 1: Consultation and Color Selection",
+          "Step 2: Precise Measurements and Cutting",
+          "Step 3: Professional Installation and Sealing",
+          "Step 4: Quality Inspection and Finishing"
+        ],
+        "benefits": [
+          "Affordable Price",
+          "Low Maintenance",
+          "Variety of Styles",
+          "Easy Installation"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of vinyl siding?",
+            "answer": "Vinyl siding is affordable, low-maintenance, and available in a wide range of styles and colors. It's a great option for homeowners on a budget."
+          },
+          {
+            "question": "How long does vinyl siding last?",
+            "answer": "Vinyl siding typically lasts 20-40 years with proper installation and maintenance."
+          },
+          {
+            "question": "Is vinyl siding environmentally friendly?",
+            "answer": "Modern vinyl siding is recyclable and energy-efficient, making it a more environmentally friendly option than older vinyl products."
+          }
+        ]
+      },
+      {
+        "slug": "wood-siding",
+        "name": "Wood Siding",
+        "shortDescription": "Classic wood siding installation and repair for a timeless look.",
+        "description": "Wood siding offers a classic and timeless aesthetic that can enhance the beauty of any San Francisco home. RB Construction specializes in wood siding installation and repair, providing expert services to maintain the natural beauty and integrity of your home's exterior. From traditional clapboard to rustic shingle, we offer a variety of wood siding options to suit your style and budget. Many Victorian-era homes in San Francisco's historic districts feature wood siding, and we're experts at preserving their charm.\n\nOur skilled craftsmen are experienced in working with all types of wood siding, ensuring proper installation and finishing for long-lasting protection. Preserve the timeless beauty of wood siding with RB Construction.",
+        "process": [
+          "Step 1: Consultation and Wood Selection",
+          "Step 2: Precise Cutting and Preparation",
+          "Step 3: Professional Installation and Sealing",
+          "Step 4: Quality Inspection and Finishing"
+        ],
+        "benefits": [
+          "Classic Aesthetic",
+          "Natural Beauty",
+          "Variety of Styles",
+          "Renewable Resource"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of wood siding?",
+            "answer": "Wood siding offers a classic and natural aesthetic that can enhance the beauty of any home. It's also a renewable resource."
+          },
+          {
+            "question": "How often does wood siding need to be maintained?",
+            "answer": "Wood siding requires regular maintenance, including painting or staining every 3-5 years, to protect it from the elements."
+          },
+          {
+            "question": "What types of wood are best for siding?",
+            "answer": "Cedar and redwood are popular choices for wood siding due to their natural resistance to decay and insects."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "San Francisco",
+        "slug": "san-francisco-ca",
+        "state": "CA",
+        "content": "RB Construction General Contractor is proud to offer our expert siding services to the residents and businesses of San Francisco. We understand the unique architectural styles and weather conditions of the city, and we tailor our siding solutions to meet these specific needs. From Victorian homes to modern buildings, we have the experience and expertise to enhance the beauty and protect the integrity of your property. \n\nWe offer a wide range of siding options, including vinyl, wood, fiber cement, and metal, ensuring that you find the perfect fit for your aesthetic preferences and budget. Our team of skilled installers is committed to providing top-quality workmanship and exceptional customer service. We are dedicated to helping San Francisco homeowners and business owners improve the curb appeal and value of their properties with our durable and attractive siding solutions.",
+        "localContext": "San Francisco's diverse neighborhoods and iconic landmarks require a keen eye for detail and an understanding of local building codes. RB Construction General Contractor is familiar with the specific challenges and opportunities presented by each area of the city, ensuring a seamless and successful siding project.",
+        "nearbyAreas": [
+          "Oakland",
+          "Berkeley",
+          "Daly City"
+        ]
+      },
+      {
+        "city": "Oakland",
+        "slug": "oakland-ca",
+        "state": "CA",
+        "content": "RB Construction General Contractor extends its professional siding services to the vibrant city of Oakland. We recognize the diverse architectural landscape of Oakland, from historic homes to contemporary designs, and provide tailored siding solutions to enhance each property's unique character. Our team is dedicated to delivering exceptional quality and craftsmanship to Oakland residents and businesses.\n\nWe provide a comprehensive range of siding options, including vinyl, wood, and fiber cement, to meet the specific needs and preferences of our Oakland clients. Our experienced installers ensure that every project is completed to the highest standards, providing long-lasting protection and aesthetic appeal. We're committed to helping Oakland property owners improve their homes and businesses with beautiful and durable siding.",
+        "localContext": "Oakland's distinct microclimates and varied architectural styles demand a knowledgeable siding contractor. RB Construction General Contractor understands the local building requirements and environmental considerations, ensuring a siding solution that is both beautiful and functional.",
+        "nearbyAreas": [
+          "Berkeley",
+          "Alameda",
+          "San Francisco"
+        ]
+      },
+      {
+        "city": "Berkeley",
+        "slug": "berkeley-ca",
+        "state": "CA",
+        "content": "RB Construction General Contractor is pleased to offer siding services to the community of Berkeley, CA. Known for its progressive spirit and diverse architecture, Berkeley presents unique opportunities for siding projects. We are committed to providing high-quality siding solutions that complement the city's character and meet the needs of its residents.\n\nWe offer a variety of siding materials, including eco-friendly options, to suit the diverse tastes and environmental concerns of Berkeley homeowners. Our experienced team ensures proper installation and attention to detail, delivering siding that is both aesthetically pleasing and durable. We are dedicated to enhancing the beauty and value of Berkeley properties with our expert siding services.",
+        "localContext": "Berkeley's commitment to sustainability and its unique architectural styles require a siding contractor with specialized knowledge. RB Construction General Contractor understands the local building codes and environmental considerations, ensuring a siding solution that is both environmentally responsible and visually appealing.",
+        "nearbyAreas": [
+          "Oakland",
+          "Albany",
+          "Emeryville"
+        ]
+      },
+      {
+        "city": "Daly City",
+        "slug": "daly-city-ca",
+        "state": "CA",
+        "content": "RB Construction General Contractor provides expert siding services to the residents and businesses of Daly City. We understand the coastal climate and diverse housing styles of Daly City, and we tailor our siding solutions to withstand the elements and enhance the appearance of your property. From single-family homes to commercial buildings, we have the experience and expertise to handle any siding project.\n\nWe offer a wide selection of siding materials, including vinyl, fiber cement, and wood, to suit your aesthetic preferences and budget. Our team of skilled installers is committed to providing top-quality workmanship and exceptional customer service. We are dedicated to helping Daly City property owners improve the curb appeal and value of their homes and businesses with our durable and attractive siding solutions.",
+        "localContext": "Daly City's coastal location and diverse neighborhoods present unique challenges and opportunities for siding projects. RB Construction General Contractor is familiar with the local building codes and environmental conditions, ensuring a seamless and successful siding installation.",
+        "nearbyAreas": [
+          "South San Francisco",
+          "Pacifica",
+          "San Bruno"
+        ]
+      },
+      {
+        "city": "San Mateo",
+        "slug": "san-mateo-ca",
+        "state": "CA",
+        "content": "RB Construction General Contractor proudly serves the community of San Mateo with top-notch siding services. We understand the unique architectural styles and climate considerations of San Mateo, and we're dedicated to providing siding solutions that enhance the beauty and protect the integrity of your home or business.\n\nWe offer a wide variety of siding materials, including vinyl, wood, and fiber cement, to meet your specific needs and preferences. Our experienced team of installers ensures that every project is completed to the highest standards, providing long-lasting durability and aesthetic appeal. We are committed to helping San Mateo property owners improve their investments with beautiful and reliable siding.",
+        "localContext": "San Mateo's mix of residential and commercial properties requires a siding contractor that understands the local aesthetic and code requirements. RB Construction General Contractor has the experience and expertise to ensure a seamless and successful siding project.",
+        "nearbyAreas": [
+          "Foster City",
+          "Belmont",
+          "Burlingame"
+        ]
+      },
+      {
+        "city": "Redwood City",
+        "slug": "redwood-city-ca",
+        "state": "CA",
+        "content": "RB Construction General Contractor extends its services to Redwood City, offering expert siding installation and repair. We recognize the unique architectural landscape and weather patterns of Redwood City, and we tailor our siding solutions to meet the specific needs of our clients.\n\nWe offer a comprehensive range of siding materials, including vinyl, wood, and fiber cement, ensuring that you find the perfect fit for your property. Our skilled installers are committed to providing exceptional workmanship and customer service, delivering siding that is both beautiful and long-lasting. We're dedicated to helping Redwood City property owners enhance the value and curb appeal of their homes and businesses.",
+        "localContext": "Redwood City's blend of historic and modern architecture requires a siding contractor with a keen eye for detail. RB Construction General Contractor understands the local building codes and environmental considerations, ensuring a siding solution that is both aesthetically pleasing and structurally sound.",
+        "nearbyAreas": [
+          "Menlo Park",
+          "San Carlos",
+          "Atherton"
+        ]
+      },
+      {
+        "city": "South San Francisco",
+        "slug": "south-san-francisco-ca",
+        "state": "CA",
+        "content": "RB Construction General Contractor is dedicated to providing superior siding services to the residents and businesses of South San Francisco. We understand the local climate and architectural styles, and we tailor our siding solutions to meet the specific needs of your property. From residential homes to commercial buildings, we have the expertise to handle any siding project.\n\nWe offer a wide range of siding options, including vinyl, fiber cement, and wood, to suit your aesthetic preferences and budget. Our team of skilled installers is committed to providing top-quality workmanship and exceptional customer service. We are dedicated to helping South San Francisco property owners improve the curb appeal and value of their homes and businesses with our durable and attractive siding solutions.",
+        "localContext": "South San Francisco's proximity to the bay and its diverse neighborhoods present unique challenges and opportunities for siding projects. RB Construction General Contractor is familiar with the local building codes and environmental conditions, ensuring a seamless and successful siding installation.",
+        "nearbyAreas": [
+          "San Bruno",
+          "Daly City",
+          "San Francisco"
+        ]
+      },
+      {
+        "city": "San Bruno",
+        "slug": "san-bruno-ca",
+        "state": "CA",
+        "content": "RB Construction General Contractor is committed to providing high-quality siding services to the residents and businesses of San Bruno. We understand the local climate and architectural nuances of San Bruno, and we tailor our siding solutions to meet the specific requirements of your property. Whether it's a residential home or a commercial building, we have the experience to handle any siding project.\n\nWe offer various siding options, including vinyl, fiber cement, and wood, to suit your aesthetic preferences and budget. Our skilled installers are dedicated to providing exceptional workmanship and superior customer service. We strive to help San Bruno property owners enhance the curb appeal and value of their properties with our durable and visually appealing siding options.",
+        "localContext": "San Bruno's location near the San Francisco International Airport and its diverse residential areas require a siding contractor with specialized knowledge. RB Construction General Contractor is well-versed in the local building codes and environmental factors, ensuring a smooth and successful siding project.",
+        "nearbyAreas": [
+          "South San Francisco",
+          "Daly City",
+          "Millbrae"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Siding Installation",
+        "text": "RB Construction did an amazing job installing new fiber cement siding on my Victorian in the Haight. The crew was professional, efficient, and the finished product looks fantastic. They really paid attention to the details and made sure everything was perfect. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Siding Repair",
+        "text": "I had some damaged wood siding on my home in Noe Valley due to water damage. RB Construction came out quickly and repaired the siding seamlessly. You can't even tell there was any damage. Great service!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Siding Replacement",
+        "text": "We recently hired RB Construction to replace the old vinyl siding on our home in the Sunset District. The team was very helpful in choosing a new siding style and color that complemented our home's architecture. The installation was smooth and the results are stunning!",
+        "date": "2024-09-08"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Fiber Cement Siding",
+        "text": "RB Construction installed fiber cement siding on my home. The team was knowledgeable and professional, and the siding looks great. I feel much more confident about the protection of my home now.",
+        "date": "2025-01-22"
+      },
+      {
+        "name": "Susan H.",
+        "rating": 4,
+        "service": "Siding Repair",
+        "text": "Had a few shingles missing after a storm. RB Construction took care of it quickly and professionally. Very reliable and reasonably priced.",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Robert G.",
+        "rating": 5,
+        "service": "Vinyl Siding",
+        "text": "RB Construction installed new vinyl siding on my garage. The work was done quickly and efficiently, and the price was very competitive. I'm very happy with the results!",
+        "date": "2025-02-10"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "RB Construction: Siding Contractor",
+        "description": "San Francisco's trusted siding contractor. Installation, repair, replacement. Free quotes."
+      },
+      "about": {
+        "title": "About RB Construction",
+        "description": "Learn about RB Construction, San Francisco's leading siding experts. Quality craftsmanship and local expertise."
+      },
+      "services": {
+        "title": "Siding Services",
+        "description": "RB Construction offers comprehensive siding services in San Francisco. Installation, repair, replacement."
+      },
+      "contact": {
+        "title": "Contact RB Construction",
+        "description": "Contact RB Construction for free siding consultations in San Francisco. Get a quote today!"
+      },
+      "reviews": {
+        "title": "RB Construction Reviews",
+        "description": "Read reviews for RB Construction, San Francisco's top-rated siding contractor. See what our customers are saying."
+      },
+      "service-areas": {
+        "title": "Service Areas",
+        "description": "RB Construction provides siding services in San Francisco and surrounding areas. Check our service area."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "siding-installation": "/images/service-siding-installation.webp",
+      "siding-repair": "/images/service-siding-repair.webp",
+      "siding-replacement": "/images/service-siding-replacement.webp",
+      "fiber-cement-siding": "/images/service-fiber-cement-siding.webp",
+      "vinyl-siding": "/images/service-vinyl-siding.webp",
+      "wood-siding": "/images/service-wood-siding.webp"
+    },
+    "servicesResponsive": {
+      "siding-installation": {
+        "src": "/images/service-siding-installation.webp",
+        "srcset": "/images/service-siding-installation-400w.webp 400w, /images/service-siding-installation-800w.webp 800w, /images/service-siding-installation-1200w.webp 1200w, /images/service-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair": {
+        "src": "/images/service-siding-repair.webp",
+        "srcset": "/images/service-siding-repair-400w.webp 400w, /images/service-siding-repair-800w.webp 800w, /images/service-siding-repair-1200w.webp 1200w, /images/service-siding-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement": {
+        "src": "/images/service-siding-replacement.webp",
+        "srcset": "/images/service-siding-replacement-400w.webp 400w, /images/service-siding-replacement-800w.webp 800w, /images/service-siding-replacement-1200w.webp 1200w, /images/service-siding-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fiber-cement-siding": {
+        "src": "/images/service-fiber-cement-siding.webp",
+        "srcset": "/images/service-fiber-cement-siding-400w.webp 400w, /images/service-fiber-cement-siding-800w.webp 800w, /images/service-fiber-cement-siding-1200w.webp 1200w, /images/service-fiber-cement-siding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-siding": {
+        "src": "/images/service-vinyl-siding.webp",
+        "srcset": "/images/service-vinyl-siding-400w.webp 400w, /images/service-vinyl-siding-800w.webp 800w, /images/service-vinyl-siding-1200w.webp 1200w, /images/service-vinyl-siding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wood-siding": {
+        "src": "/images/service-wood-siding.webp",
+        "srcset": "/images/service-wood-siding-400w.webp 400w, /images/service-wood-siding-800w.webp 800w, /images/service-wood-siding-1200w.webp 1200w, /images/service-wood-siding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
